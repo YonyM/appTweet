@@ -8,5 +8,4 @@ npm install express --save
 nodemon app.js
 
 <strong>Credits</strong></br>
-
 Brian Holt
